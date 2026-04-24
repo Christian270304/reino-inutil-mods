@@ -7,6 +7,11 @@
       "name": "FancyMenu",
       "filename": "fancymenu_fabric_3.8.1_MC_1.20.1.jar",
       "url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/EBkgoKxF/fancymenu_fabric_3.8.1_MC_1.20.1.jar"
+    },
+    {
+      "name": "FerriteCore",
+      "filename": "ferritecore-6.0.1-fabric.jar",
+      "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/unerR5MN/ferritecore-6.0.1-fabric.jar"
     }
   ]
 }
