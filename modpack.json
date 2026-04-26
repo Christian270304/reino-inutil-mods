@@ -4,20 +4,24 @@
   "loader": "fabric",
   "mods": [
     {
+      "name": "Fabric API",
+      "filename": "fabric-api-0.92.8%2B1.20.1.jar",
+      "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/aLxYjsiv/fabric-api-0.92.8%2B1.20.1.jar"
+    },
+    {
       "name": "FancyMenu",
       "filename": "fancymenu_fabric_3.8.1_MC_1.20.1.jar",
       "url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/EBkgoKxF/fancymenu_fabric_3.8.1_MC_1.20.1.jar"
     },
     {
-      "name": "FerriteCore",
-      "filename": "ferritecore-6.0.1-fabric.jar",
-      "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/unerR5MN/ferritecore-6.0.1-fabric.jar"
+      "name": "Konkrete",
+      "filename": "konkrete_fabric_1.8.1_MC_1.20.1.jar",
+      "url": "https://cdn.modrinth.com/data/J81TRJWm/versions/RlBGFlWp/konkrete_fabric_1.8.1_MC_1.20.1.jar"
     },
     {
-      "name": "Xaero's Minimap",
-      "filename": "xaerominimap-fabric-1.20.1-25.3.10.jar",
-      "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/7wlcmhtN/xaerominimap-fabric-1.20.1-25.3.10.jar"
+      "name": "Melody",
+      "filename": "melody_fabric_1.0.4_MC_1.20.1-1.20.4.jar",
+      "url": "https://cdn.modrinth.com/data/CVT4pFB2/versions/2o0oW8Yv/melody_fabric_1.0.4_MC_1.20.1-1.20.4.jar"
     }
-    
   ]
 }
