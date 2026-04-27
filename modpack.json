@@ -5,13 +5,23 @@
   "mods": [
     {
       "name": "Fabric API",
-      "filename": "fabric-api-0.91.0+1.20.1.jar",
-      "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/fabric-api-0.91.0+1.20.1.jar"
+      "filename": "fabric-api-0.92.8%2B1.20.1.jar",
+      "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/aLxYjsiv/fabric-api-0.92.8%2B1.20.1.jar"
     },
     {
       "name": "FancyMenu",
-      "filename": "fancymenu-3.2.2.jar",
-      "url": "https://cdn.modrinth.com/data/.../fancymenu-3.2.2.jar"
+      "filename": "fancymenu_fabric_3.8.1_MC_1.20.1.jar",
+      "url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/EBkgoKxF/fancymenu_fabric_3.8.1_MC_1.20.1.jar"
+    },
+    {
+      "name": "Konkrete",
+      "filename": "konkrete_fabric_1.8.1_MC_1.20.1.jar",
+      "url": "https://cdn.modrinth.com/data/J81TRJWm/versions/RlBGFlWp/konkrete_fabric_1.8.1_MC_1.20.1.jar"
+    },
+    {
+      "name": "Melody",
+      "filename": "melody_fabric_1.0.4_MC_1.20.1-1.20.4.jar",
+      "url": "https://cdn.modrinth.com/data/CVT4pFB2/versions/2o0oW8Yv/melody_fabric_1.0.4_MC_1.20.1-1.20.4.jar"
     }
   ]
 }
