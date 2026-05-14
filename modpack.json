@@ -1,27 +1,22 @@
 {
   "version": "2.1.4",
   "minecraft": "1.20.1",
-  "loader": "fabric",
+  "loader": "forge",
   "mods": [
     {
-      "name": "Fabric API",
-      "filename": "fabric-api-0.92.8%2B1.20.1.jar",
-      "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/aLxYjsiv/fabric-api-0.92.8%2B1.20.1.jar"
-    },
-    {
       "name": "FancyMenu",
-      "filename": "fancymenu_fabric_3.8.1_MC_1.20.1.jar",
-      "url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/EBkgoKxF/fancymenu_fabric_3.8.1_MC_1.20.1.jar"
+      "filename": "fancymenu_forge_3.9.0_MC_1.20.1.jar",
+      "url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/OrPdyxDv/fancymenu_forge_3.9.0_MC_1.20.1.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
     },
     {
       "name": "Konkrete",
-      "filename": "konkrete_fabric_1.8.1_MC_1.20.1.jar",
-      "url": "https://cdn.modrinth.com/data/J81TRJWm/versions/RlBGFlWp/konkrete_fabric_1.8.1_MC_1.20.1.jar"
+      "filename": "konkrete_forge_1.8.0_MC_1.20-1.20.1.jar",
+      "url": "https://cdn.modrinth.com/data/J81TRJWm/versions/skYziQQL/konkrete_forge_1.8.0_MC_1.20-1.20.1.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
     },
     {
       "name": "Melody",
-      "filename": "melody_fabric_1.0.4_MC_1.20.1-1.20.4.jar",
-      "url": "https://cdn.modrinth.com/data/CVT4pFB2/versions/2o0oW8Yv/melody_fabric_1.0.4_MC_1.20.1-1.20.4.jar"
+      "filename": "melody_forge_1.0.3_MC_1.20.1-1.20.4.jar",
+      "url": "https://cdn.modrinth.com/data/CVT4pFB2/versions/lJlW5r8R/melody_forge_1.0.3_MC_1.20.1-1.20.4.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
     }
   ]
 }
