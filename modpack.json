@@ -34,6 +34,16 @@
       "name": "Architectury",
       "filename": "architectury-9.2.14-forge.jar",
       "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/1MKTLiiG/architectury-9.2.14-forge.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
+    },
+    {
+      "name": "CasinoCraft",
+      "filename": "CasinoCraft_1.20.1_v25.jar",
+      "url": "https://cdn.modrinth.com/data/your_casinocraft_id/versions/your_casinocraft_version/casinocraft-forge-1.0.0.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
+    },
+    {
+      "name": "CasinoChips",
+      "filename": "casinochips-1.0.0-forge-1.20.1.jar",
+      "url": "https://cdn.modrinth.com/data/your_casinochips_id/versions/your_casinochips_version/casinochips-forge-1.0.0.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
     }
   ]
 }
