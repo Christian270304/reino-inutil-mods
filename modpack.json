@@ -29,6 +29,11 @@
       "name": "Rhino",
       "filename": "rhino-forge-2001.2.3-build.10.jar",
       "url": "https://cdn.modrinth.com/data/sk9knFPE/versions/uNALdylI/rhino-forge-2001.2.3-build.10.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
+    },
+    {
+      "name": "Architectury",
+      "filename": "architectury-9.2.14-forge.jar",
+      "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/1MKTLiiG/architectury-9.2.14-forge.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
     }
   ]
 }
