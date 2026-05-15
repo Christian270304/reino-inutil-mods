@@ -38,12 +38,12 @@
     {
       "name": "CasinoCraft",
       "filename": "CasinoCraft_1.20.1_v25.jar",
-      "url": "https://cdn.modrinth.com/data/your_casinocraft_id/versions/your_casinocraft_version/casinocraft-forge-1.0.0.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
+      "url": "https://raw.github.com/Christian270304/reino-inutil-mods/main/mods/CasinoCraft_1.20.1_v25.jar"
     },
     {
       "name": "CasinoChips",
       "filename": "casinochips-1.0.0-forge-1.20.1.jar",
-      "url": "https://cdn.modrinth.com/data/your_casinochips_id/versions/your_casinochips_version/casinochips-forge-1.0.0.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
+      "url": "https://raw.github.com/Christian270304/reino-inutil-mods/main/mods/casinochips-1.0.0-forge-1.20.1.jar"
     }
   ]
 }
