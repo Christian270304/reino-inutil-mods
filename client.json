@@ -4,17 +4,17 @@
     {
       "name": "Economy Script",
       "dest": "kubejs/server_scripts/pay.js",
-      "url": "https://..."
+      "url": "https://raw.githubusercontent.com/Christian270304/reino-inutil-mods/main/kubejs/economy.js"
     },
     {
       "name": "ATM Script",
       "dest": "kubejs/server_scripts/atm.js",
-      "url": "https://..."
+      "url": "https://raw.githubusercontent.com/Christian270304/reino-inutil-mods/main/kubejs/atm.js"
     },
     {
       "name": "Reward Script",
       "dest": "kubejs/server_scripts/rewards.js",
-      "url": "https://..."
+      "url": "https://raw.githubusercontent.com/Christian270304/reino-inutil-mods/main/kubejs/rewards.js"
     }
   ]
 }
