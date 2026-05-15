@@ -18,5 +18,17 @@
       "filename": "melody_forge_1.0.3_MC_1.20.1-1.20.4.jar",
       "url": "https://cdn.modrinth.com/data/CVT4pFB2/versions/lJlW5r8R/melody_forge_1.0.3_MC_1.20.1-1.20.4.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
     }
+    ,
+    {
+      "name": "Kubejs",
+      "filename": "kubejs-forge-2001.6.5-build.26.jar",
+      "url": "https://cdn.modrinth.com/data/umyGl7zF/versions/hVR2xUSr/kubejs-forge-2001.6.5-build.26.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
+    }
+    ,
+    {
+      "name": "Rhino",
+      "filename": "rhino-forge-2001.2.3-build.10.jar",
+      "url": "https://cdn.modrinth.com/data/sk9knFPE/versions/uNALdylI/rhino-forge-2001.2.3-build.10.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
+    }
   ]
 }
