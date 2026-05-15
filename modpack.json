@@ -44,6 +44,21 @@
       "name": "CasinoChips",
       "filename": "casinochips-1.0.0-forge-1.20.1.jar",
       "url": "https://raw.github.com/Christian270304/reino-inutil-mods/main/mods/casinochips-1.0.0-forge-1.20.1.jar"
+    },
+    {
+      "name": "JEI",
+      "filename": "jei-1.20.1-forge-15.20.0.130.jar",
+      "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/RTFeXsvE/jei-1.20.1-forge-15.20.0.130.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
+    },
+    {
+      "name": "Good O'l currency Reforged",
+      "filename": "Good O'l Currency Reforged 1.20.1.jar",
+      "url": "https://raw.github.com/Christian270304/reino-inutil-mods/main/mods/Good O'l Currency Reforged 1.20.1.jar"
+    },
+    {
+      "name": "Lucky77",
+      "filename": "Lucky77_1.20.1_v04.jar",
+      "url": "https://raw.github.com/Christian270304/reino-inutil-mods/main/mods/Lucky77_1.20.1_v04.jar"
     }
   ]
 }
