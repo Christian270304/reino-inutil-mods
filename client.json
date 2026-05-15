@@ -1,6 +1,20 @@
 {
   "version": "2.1.4",
   "files": [
-    
+    {
+      "name": "Economy Script",
+      "dest": "kubejs/server_scripts/pay.js",
+      "url": "https://..."
+    },
+    {
+      "name": "ATM Script",
+      "dest": "kubejs/server_scripts/atm.js",
+      "url": "https://..."
+    },
+    {
+      "name": "Reward Script",
+      "dest": "kubejs/server_scripts/rewards.js",
+      "url": "https://..."
+    }
   ]
 }
