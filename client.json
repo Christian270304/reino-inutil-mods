@@ -4,47 +4,56 @@
     {
       "name": "Economy Script",
       "dest": "kubejs/server_scripts/pay.js",
-      "url": "https://raw.githubusercontent.com/Christian270304/reino-inutil-mods/main/kubejs/server_scripts/economy.js"
+      "url": "https://raw.githubusercontent.com/Christian270304/reino-inutil-mods/main/kubejs/server_scripts/economy.js",
+      "updatedAt": "2026-05-18 14:30"
     },
     {
       "name": "ATM Script",
       "dest": "kubejs/server_scripts/atm.js",
-      "url": "https://raw.githubusercontent.com/Christian270304/reino-inutil-mods/main/kubejs/server_scripts/atm.js"
+      "url": "https://raw.githubusercontent.com/Christian270304/reino-inutil-mods/main/kubejs/server_scripts/atm.js",
+      "updatedAt": "2026-05-18 14:30"
     },
     {
       "name": "Reward Script",
       "dest": "kubejs/server_scripts/rewards.js",
       "url": "https://raw.githubusercontent.com/Christian270304/reino-inutil-mods/main/kubejs/server_scripts/rewards.js"
+      "updatedAt": "2026-05-18 14:30"
     },
     {
       "name": "Money hub",
       "dest": "kubejs/client_scripts/money_hub.js",
-      "url": "https://raw.githubusercontent.com/Christian270304/reino-inutil-mods/main/kubejs/client_scripts/money_hub.js"
+      "url": "https://raw.githubusercontent.com/Christian270304/reino-inutil-mods/main/kubejs/client_scripts/money_hub.js",
+      "updatedAt": "2026-05-18 14:30"
     },
     {
       "name": "Startup block",
       "dest": "kubejs/startup_scripts/blocks.js",
-      "url": "https://raw.githubusercontent.com/Christian270304/reino-inutil-mods/main/kubejs/startup_scripts/blocks.js"
+      "url": "https://raw.githubusercontent.com/Christian270304/reino-inutil-mods/main/kubejs/startup_scripts/blocks.js",
+      "updatedAt": "2026-05-18 14:30"
     },
     {
       "name": "ATM Blockstate",
       "dest": "kubejs/assets/kubejs/blockstates/atm.json",
-      "url": "https://raw.githubusercontent.com/Christian270304/reino-inutil-mods/main/kubejs/assets/kubejs/blockstates/atm.json"
+      "url": "https://raw.githubusercontent.com/Christian270304/reino-inutil-mods/main/kubejs/assets/kubejs/blockstates/atm.json",
+      "updatedAt": "2026-05-18 14:30"
     },
     {
       "name": "ATM model block",
       "dest": "kubejs/assets/kubejs/models/block/atm.json",
-      "url": "https://raw.githubusercontent.com/Christian270304/reino-inutil-mods/main/kubejs/assets/kubejs/models/block/atm.json"
+      "url": "https://raw.githubusercontent.com/Christian270304/reino-inutil-mods/main/kubejs/assets/kubejs/models/block/atm.json",
+      "updatedAt": "2026-05-18 14:30"
     },
     {
       "name": "ATM model item",
       "dest": "kubejs/assets/kubejs/models/item/atm.json",
-      "url": "https://raw.githubusercontent.com/Christian270304/reino-inutil-mods/main/kubejs/assets/kubejs/models/item/atm.json"
+      "url": "https://raw.githubusercontent.com/Christian270304/reino-inutil-mods/main/kubejs/assets/kubejs/models/item/atm.json",
+      "updatedAt": "2026-05-18 14:30"
     },
     {
       "name": "ATM texture",
       "dest": "kubejs/assets/kubejs/textures/block/atm.png",
-      "url": "https://raw.githubusercontent.com/Christian270304/reino-inutil-mods/main/kubejs/assets/kubejs/textures/block/atm.png"
+      "url": "https://raw.githubusercontent.com/Christian270304/reino-inutil-mods/main/kubejs/assets/kubejs/textures/block/atm.png",
+      "updatedAt": "2026-05-18 14:30"
     }
   ]
 }
