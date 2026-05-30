@@ -1,12 +1,547 @@
 {
-  "version": "2.1.4",
+  "version": "1.0.4",
   "minecraft": "1.20.1",
   "loader": "forge",
   "mods": [
     {
+      "name": "Melody",
+      "filename": "melody_forge_1.0.3_MC_1.20.1-1.20.4.jar",
+      "url": "https://cdn.modrinth.com/data/CVT4pFB2/versions/lJlW5r8R/melody_forge_1.0.3_MC_1.20.1-1.20.4.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
+    },
+    {
+      "name": "Integrated API",
+      "filename": "integrated_api-1.7.2+1.20.1-forge.jar",
+      "url": "https://cdn.modrinth.com/data/V6fKbpBN/versions/xG1v7vOD/integrated_api-1.7.2%2B1.20.1-forge.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
+    },
+    {
+      "name": "Aquamirae",
+      "filename": "aquamirae-forge-1.20.1-6.4.0.jar",
+      "url": "https://cdn.modrinth.com/data/k23mNPhZ/versions/A6aIqoJZ/aquamirae-forge-1.20.1-6.4.0.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
+    },
+    {
+      "name": "Towns and Towers",
+      "filename": "Towns-and-Towers-1.12-Fabric+Forge.jar",
+      "url": "https://cdn.modrinth.com/data/DjLobEOy/versions/7ZwnSrVW/Towns-and-Towers-1.12-Fabric%2BForge.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
+    },
+    {
+      "name": "Zeta",
+      "filename": "Zeta-1.0-31.jar",
+      "url": "https://cdn.modrinth.com/data/MVARlG2f/versions/mSER3jBI/Zeta-1.0-31.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
+    },
+    {
+      "name": "Croptopia",
+      "filename": "croptopiadelight-1.3.2.jar",
+      "url": "https://cdn.modrinth.com/data/z2Ihxkgp/versions/zLhnr9EI/croptopiadelight-1.3.2.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
+    },
+    {
+      "name": "Xaero's World Map",
+      "filename": "xaeroworldmap-forge-1.20.1-1.40.16.jar",
+      "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/5mJcHKn6/xaeroworldmap-forge-1.20.1-1.40.16.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
+    },
+    {
+      "name": "Puzzles Lib",
+      "filename": "PuzzlesLib-v8.1.33-1.20.1-Forge.jar",
+      "url": "https://cdn.modrinth.com/data/QAGBst4M/versions/mIyVGf3d/PuzzlesLib-v8.1.33-1.20.1-Forge.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
+    },
+    {
       "name": "FancyMenu",
       "filename": "fancymenu_forge_3.9.0_MC_1.20.1.jar",
       "url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/OrPdyxDv/fancymenu_forge_3.9.0_MC_1.20.1.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
+    },
+    {
+      "name": "When Dungeons Arise",
+      "filename": "DungeonsArise-1.20.x-2.1.58-release.jar",
+      "url": "https://cdn.modrinth.com/data/8DfbfASn/versions/6hQpx5Tc/DungeonsArise-1.20.x-2.1.58-release.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
+    },
+    {
+      "name": "Chipped",
+      "filename": "chipped-forge-1.20.1-3.0.7.jar",
+      "url": "https://cdn.modrinth.com/data/BAscRYKm/versions/pi3f4er3/chipped-forge-1.20.1-3.0.7.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
+    },
+    {
+      "name": "Embeddium",
+      "filename": "embeddium-0.3.31+mc1.20.1.jar",
+      "url": "https://cdn.modrinth.com/data/sk9rgfiA/versions/UTbfe5d1/embeddium-0.3.31%2Bmc1.20.1.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
+    },
+    {
+      "name": "Mutant Monsters",
+      "filename": "MutantMonsters-v8.0.8-1.20.1-Forge.jar",
+      "url": "https://cdn.modrinth.com/data/derP0ten/versions/CUgYzMnF/MutantMonsters-v8.0.8-1.20.1-Forge.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
+    },
+    {
+      "name": "Born in Chaos",
+      "filename": "born_in_chaos_[Forge]1.20.1_1.7.5.jar",
+      "url": "https://cdn.modrinth.com/data/1kcHy4de/versions/8wmEhUSt/born_in_chaos_%5BForge%5D1.20.1_1.7.5.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
+    },
+    {
+      "name": "Simply More",
+      "filename": "simplymore-forge-1.1.3.jar",
+      "url": "https://cdn.modrinth.com/data/zhpyD8Y0/versions/xevLkumX/simplymore-forge-1.1.3.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
+    },
+    {
+      "name": "Regions Unexplored: Expansion",
+      "filename": "RUExpansion-1.0.1+1.20.1.jar",
+      "url": "https://cdn.modrinth.com/data/UUT3UbDH/versions/oRkSj0n9/RUExpansion-1.0.1%2B1.20.1.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
+    },
+    {
+      "name": "Biomes O' Plenty",
+      "filename": "BiomesOPlenty-1.20.1-18.0.0.592.jar",
+      "url": "https://cdn.modrinth.com/data/HXF82T3G/versions/zAvWfIlG/BiomesOPlenty-1.20.1-18.0.0.592.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
+    },
+    {
+      "name": "GPUTape",
+      "filename": "GPUTape-1.18x-1.21x-1.0.5.1-forge.jar",
+      "url": "https://raw.github.com/Christian270304/reino-inutil-mods/main/mods/GPUTape-1.18x-1.21x-1.0.5.1-forge.jar"
+    },
+    {
+      "name": "Macaw's Roofs",
+      "filename": "mcw-roofs-2.3.2-mc1.20.1forge.jar",
+      "url": "https://cdn.modrinth.com/data/B8jaH3P1/versions/31e80GhE/mcw-roofs-2.3.2-mc1.20.1forge.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
+    },
+    {
+      "name": "Friends&Foes",
+      "filename": "friendsandfoes-forge-mc1.20.1-3.0.9.jar",
+      "url": "https://cdn.modrinth.com/data/BOCJKD49/versions/ihFi4QrR/friendsandfoes-forge-mc1.20.1-3.0.9.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
+    },
+    {
+      "name": "Another Furniture",
+      "filename": "another_furniture-forge-1.20.1-3.0.4.jar",
+      "url": "https://cdn.modrinth.com/data/ulloLmqG/versions/S9tNKT5R/another_furniture-forge-1.20.1-3.0.4.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
+    },
+    {
+      "name": "Simply Swords",
+      "filename": "simplyswords-forge-1.56.0-1.20.1.jar",
+      "url": "https://cdn.modrinth.com/data/bK3Ubu9p/versions/OFYmngee/simplyswords-forge-1.56.0-1.20.1.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
+    },
+    {
+      "name": "Exotic Birds",
+      "filename": "exoticbirds-1.20.1-1.0.0.jar",
+      "url": "https://raw.github.com/Christian270304/reino-inutil-mods/main/mods/exoticbirds-1.20.1-1.0.0.jar"
+    },
+    {
+      "name": "Wakes Reforged",
+      "filename": "wakes-1.20.1-Forge-1.3.5.jar",
+      "url": "https://cdn.modrinth.com/data/E0SdeAoH/versions/RUNdEy7Q/wakes-1.20.1-Forge-1.3.5.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
+    },
+    {
+      "name": "Blue Skies",
+      "filename": "blue_skies-1.20.1-1.3.31.jar",
+      "url": "https://cdn.modrinth.com/data/DOSy3C4M/versions/YGq4rvX4/blue_skies-1.20.1-1.3.31.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
+    },
+    {
+      "name": "Quark",
+      "filename": "Quark-4.0-462.jar",
+      "url": "https://cdn.modrinth.com/data/qnQsVE2z/versions/DijQLauD/Quark-4.0-462.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
+    },
+    {
+      "name": "AmbientSounds 6",
+      "filename": "AmbientSounds_FORGE_v6.3.8_mc1.20.1.jar",
+      "url": "https://cdn.modrinth.com/data/fM515JnW/versions/AuLdtrBY/AmbientSounds_FORGE_v6.3.8_mc1.20.1.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
+    },
+    {
+      "name": "Simple Uncrafting Table",
+      "filename": "UncraftingTable-forge-1.5.6.jar",
+      "url": "https://cdn.modrinth.com/data/d0f1a75r/versions/qemM1hXa/UncraftingTable-forge-1.5.6.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
+    },
+    {
+      "name": "Dungeon Crawl",
+      "filename": "Dungeon Crawl-1.20.1-2.3.15.jar",
+      "url": "https://cdn.modrinth.com/data/q0rRg4lH/versions/MJrfb4gi/Dungeon%20Crawl-1.20.1-2.3.15.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
+    },
+    {
+      "name": "OptiLeaves",
+      "filename": "optileaves-1.20.x-1.1.0.jar",
+      "url": "https://cdn.modrinth.com/data/ChDudAun/versions/eK1qn5Bh/optileaves-1.20.x-1.1.0.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
+    },
+    {
+      "name": "Rechiseled",
+      "filename": "rechiseled-1.2.4-forge-mc1.20.1.jar",
+      "url": "https://cdn.modrinth.com/data/B0g2vT6l/versions/ZZTYn1VH/rechiseled-1.2.4-forge-mc1.20.1.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
+    },
+    {
+      "name": "Create Deco",
+      "filename": "createdeco-2.0.3-1.20.1-forge.jar",
+      "url": "https://cdn.modrinth.com/data/sMvUb4Rb/versions/e9gaSRMd/createdeco-2.0.3-1.20.1-forge.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
+    },
+    {
+      "name": "Integrated Dungeons and Structures",
+      "filename": "idas_forge-1.13.0+1.20.1.jar",
+      "url": "https://cdn.modrinth.com/data/Z8OZShAU/versions/mgwwWo3b/idas_forge-1.13.0%2B1.20.1.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
+    },
+    {
+      "name": "Animation Overhaul",
+      "filename": "Animation_Overhaul-forge-1.20.x-1.3.1.jar",
+      "url": "https://cdn.modrinth.com/data/jCikwMS7/versions/tyNQa6gv/Animation_Overhaul-forge-1.20.x-1.3.1.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
+    },
+    {
+      "name": "BaguetteLib",
+      "filename": "baguettelib-1.20.1-Forge-1.1.6.jar",
+      "url": "https://cdn.modrinth.com/data/OfKzpbRU/versions/vLbvKK04/baguettelib-1.20.1-Forge-1.1.6.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
+    },
+    {
+      "name": "Oculus",
+      "filename": "oculus-mc1.20.1-1.8.0.jar",
+      "url": "https://cdn.modrinth.com/data/GchcoXML/versions/iQ1SwGc3/oculus-mc1.20.1-1.8.0.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
+    },
+    {
+      "name": "Macaw's Doors",
+      "filename": "mcw-doors-1.1.5-mc1.20.1forge.jar",
+      "url": "https://cdn.modrinth.com/data/kNxa8z3e/versions/n8BlIUm3/mcw-doors-1.1.5-mc1.20.1forge.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
+    },
+    {
+      "name": "fix GPU memory leak",
+      "filename": "gpumemleakfix-1.20.1-1.8.jar",
+      "url": "https://raw.github.com/Christian270304/reino-inutil-mods/main/mods/gpumemleakfix-1.20.1-1.8.jar"
+    },
+    {
+      "name": "Searchables",
+      "filename": "Searchables-forge-1.20.1-1.0.3.jar",
+      "url": "https://cdn.modrinth.com/data/fuuu3xnx/versions/PM9yAW1G/Searchables-forge-1.20.1-1.0.3.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
+    },
+    {
+      "name": "Combat Dash",
+      "filename": "combat_dash-1.7-forge-1.20.1.jar",
+      "url": "https://raw.github.com/Christian270304/reino-inutil-mods/main/mods/combat_dash-1.7-forge-1.20.1.jar"
+    },
+    {
+      "name": "ModernFix",
+      "filename": "modernfix-forge-5.27.40+mc1.20.1.jar",
+      "url": "https://cdn.modrinth.com/data/nmDcB62a/versions/27NYZ7LL/modernfix-forge-5.27.40%2Bmc1.20.1.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
+    },
+    {
+      "name": "EpheroLib",
+      "filename": "EpheroLib-1.20.1-FORGE-1.2.0.jar",
+      "url": "https://cdn.modrinth.com/data/DIIgdJzf/versions/vZWRmjl2/EpheroLib-1.20.1-FORGE-1.2.0.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
+    },
+    {
+      "name": "Create Crafts & Additions",
+      "filename": "createaddition-1.20.1-1.3.3.jar",
+      "url": "https://cdn.modrinth.com/data/kU1G12Nn/versions/9LgyB6Yb/createaddition-1.20.1-1.3.3.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
+    },
+    {
+      "name": "Lucky77",
+      "filename": "Lucky77_1.20.1_v04.jar",
+      "url": "https://raw.github.com/Christian270304/reino-inutil-mods/main/mods/Lucky77_1.20.1_v04.jar"
+    },
+    {
+      "name": "GuideME",
+      "filename": "guideme-20.1.14.jar",
+      "url": "https://cdn.modrinth.com/data/Ck4E7v7R/versions/9YGnKYDF/guideme-20.1.14.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
+    },
+    {
+      "name": "Sophisticated Backpacks",
+      "filename": "sophisticatedbackpacks-1.20.1-3.24.43.1789.jar",
+      "url": "https://cdn.modrinth.com/data/TyCTlI4b/versions/9ApkmlPv/sophisticatedbackpacks-1.20.1-3.24.43.1789.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
+    },
+    {
+      "name": "Better Combat Particle",
+      "filename": "bc_particle-0.0.6-forge-1.20.1.jar",
+      "url": "https://cdn.modrinth.com/data/Nc3f2m7t/versions/fXDyhpzW/bc_particle-0.0.6-forge-1.20.1.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
+    },
+    {
+      "name": "Simple Voice Chat",
+      "filename": "voicechat-forge-1.20.1-2.6.18.jar",
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/8jZe6s12/voicechat-forge-1.20.1-2.6.18.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
+    },
+    {
+      "name": "WATERFrAMES: Multimedia Displays",
+      "filename": "",
+      "url": "https://cdn.modrinth.com/data/eBzFuVTM/versions/v8wcp1KM/waterframes-FORGE-mc1.20.1-v2.1.22.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
+    },
+    {
+      "name": "SuperMartijn642's Core Lib",
+      "filename": "supermartijn642corelib-1.1.21-forge-mc1.20.1.jar",
+      "url": "https://cdn.modrinth.com/data/rOUBggPv/versions/2vPGeoPe/supermartijn642corelib-1.1.21-forge-mc1.20.1.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
+    },
+    {
+      "name": "Fusion (Connected Textures)",
+      "filename": "fusion-1.2.12-forge-mc1.20.1.jar",
+      "url": "https://cdn.modrinth.com/data/p19vrgc2/versions/EJMDd0qw/fusion-1.2.12-forge-mc1.20.1.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
+    },
+    {
+      "name": "FTB Library",
+      "filename": "ftb-library-forge-2001.2.12.jar",
+      "url": "https://raw.github.com/Christian270304/reino-inutil-mods/main/mods/ftb-library-forge-2001.2.12.jar"
+    },
+    {
+      "name": "Create: New Age",
+      "filename": "create-new-age-1.1.7f+forge-mc1.20.1.jar",
+      "url": "https://cdn.modrinth.com/data/FTeXqI9v/versions/zQStvTFw/create-new-age-1.1.7f%2Bforge-mc1.20.1.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
+    },
+    {
+      "name": "Rhino",
+      "filename": "rhino-forge-2001.2.3-build.10.jar",
+      "url": "https://cdn.modrinth.com/data/sk9knFPE/versions/uNALdylI/rhino-forge-2001.2.3-build.10.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
+    },
+    {
+      "name": "Terralith",
+      "filename": "Terralith_1.20.x_v2.5.4.jar",
+      "url": "https://cdn.modrinth.com/data/8oi3bsk5/versions/WeYhEb5d/Terralith_1.20.x_v2.5.4.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
+    },
+    {
+      "name": "Critters and Companions",
+      "filename": "crittersandcompanions-forge-1.20.1-2.3.5.jar",
+      "url": "https://cdn.modrinth.com/data/Yd4wb5wZ/versions/eQpvjcxk/crittersandcompanions-forge-1.20.1-2.3.5.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
+    },
+    {
+      "name": "WATERMeDIA: Youtube Plugin",
+      "filename": "watermedia_youtube_plugin-2.1.2.jar",
+      "url": "https://cdn.modrinth.com/data/P0w3IrnX/versions/rDtJujm2/watermedia_youtube_plugin-2.1.2.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
+    },
+    {
+      "name": "Repurposed Structures",
+      "filename": "repurposed_structures-7.1.23+1.20.1-forge.jar",
+      "url": "https://cdn.modrinth.com/data/QDNS5oAT/versions/e5BSsmZw/repurposed_structures-7.1.23%2B1.20.1-forge.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
+    },
+    {
+      "name": "Alex's Mobs",
+      "filename": "alexsmobs-1.22.9.jar",
+      "url": "https://cdn.modrinth.com/data/2cMuAZAp/versions/XoIASRVU/alexsmobs-1.22.9.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
+    },
+    {
+      "name": "Obscure API",
+      "filename": "obscure_api-18.jar",
+      "url": "https://cdn.modrinth.com/data/fU7jbFHc/versions/7sZmDObM/obscure_api-18.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
+    },
+    {
+      "name": "Cristel Lib",
+      "filename": "cristellib-1.1.6-forge.jar",
+      "url": "https://cdn.modrinth.com/data/cl223EMc/versions/DOsSK4NK/cristellib-1.1.6-forge.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
+    },
+    {
+      "name": "Mouse Tweaks",
+      "filename": "MouseTweaks-forge-mc1.20.1-2.25.1.jar",
+      "url": "https://cdn.modrinth.com/data/aC3cM3Vq/versions/7JVXOe3K/MouseTweaks-forge-mc1.20.1-2.25.1.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
+    },
+    {
+      "name": "Create Slice & Dice",
+      "filename": "sliceanddice-forge-3.6.0.jar",
+      "url": "https://cdn.modrinth.com/data/GmjmRQ0A/versions/KWLI8Ng7/sliceanddice-forge-3.6.0.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
+    },
+    {
+      "name": "Create: Enchantment Industry",
+      "filename": "create_enchantment_industry-1.3.3-for-create-6.0.6.jar",
+      "url": "https://cdn.modrinth.com/data/JWGBpFUP/versions/E8bB0Vws/create_enchantment_industry-1.3.3-for-create-6.0.6.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
+    },
+    {
+      "name": "FerriteCore",
+      "filename": "ferritecore-6.0.1-forge.jar",
+      "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/DG5Fn9Sz/ferritecore-6.0.1-forge.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
+    },
+    {
+      "name": "Untamed Wilds",
+      "filename": "untamedwilds-1.20.1-4.0.4.jar",
+      "url": "https://raw.github.com/Christian270304/reino-inutil-mods/main/mods/untamedwilds-1.20.1-4.0.4.jar"
+    },
+    {
+      "name": "Lootr",
+      "filename": "lootr-forge-1.20-0.7.35.94.jar",
+      "url": "https://cdn.modrinth.com/data/EltpO5cN/versions/mWTXC1ZX/lootr-forge-1.20-0.7.35.94.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
+    },
+    {
+      "name": "KubeJS",
+      "filename": "kubejs-forge-2001.6.5-build.26.jar",
+      "url": "https://cdn.modrinth.com/data/umyGl7zF/versions/hVR2xUSr/kubejs-forge-2001.6.5-build.26.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
+    },
+    {
+      "name": "Resourceful Lib",
+      "filename": "resourcefullib-forge-1.20.1-2.1.29.jar",
+      "url": "https://cdn.modrinth.com/data/G1hIVOrD/versions/OhsHaCcW/resourcefullib-forge-1.20.1-2.1.29.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
+    },
+    {
+      "name": "Entity Culling",
+      "filename": "entityculling-forge-1.10.2-mc1.20.1.jar",
+      "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/qIt6NbdE/entityculling-forge-1.10.2-mc1.20.1.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
+    },
+    {
+      "name": "YUNG's Better Strongholds",
+      "filename": "YungsBetterStrongholds-1.20-Forge-4.0.3.jar",
+      "url": "https://cdn.modrinth.com/data/kidLKymU/versions/rwiShgsc/YungsBetterStrongholds-1.20-Forge-4.0.3.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
+    },
+    {
+      "name": "YUNG's API",
+      "filename": "YungsApi-1.20-Forge-4.0.6.jar",
+      "url": "https://cdn.modrinth.com/data/Ua7DFN59/versions/PJOYAmAs/YungsApi-1.20-Forge-4.0.6.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
+    },
+    {
+      "name": "ChoiceTheorem's Overhauled Village",
+      "filename": "[forge]ctov-3.4.14.jar",
+      "url": "https://cdn.modrinth.com/data/fgmhI8kH/versions/o7mg6MeV/%5Bforge%5Dctov-3.4.14.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
+    },
+    {
+      "name": "Mekanism",
+      "filename": "Mekanism-1.20.1-10.4.16.80.jar",
+      "url": "https://cdn.modrinth.com/data/Ce6I4WUE/versions/uxe1WQp4/Mekanism-1.20.1-10.4.16.80.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
+    },
+    {
+      "name": "Canary",
+      "filename": "canary-mc1.20.1-0.3.3.jar",
+      "url": "https://cdn.modrinth.com/data/qa2H4BS9/versions/lauzXB0n/canary-mc1.20.1-0.3.3.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
+    },
+    {
+      "name": "Amendments",
+      "filename": "amendments-1.20-2.2.5.jar",
+      "url": "https://cdn.modrinth.com/data/6iTJugQR/versions/73W8UHX3/amendments-1.20-2.2.5.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
+    },
+    {
+      "name": "Bookshelf",
+      "filename": "Bookshelf-Forge-1.20.1-20.2.15.jar",
+      "url": "https://cdn.modrinth.com/data/uy4Cnpcm/versions/7eS5OIHj/Bookshelf-Forge-1.20.1-20.2.15.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
+    },
+    {
+      "name": "Supplementaries",
+      "filename": "supplementaries-1.20-3.1.43-forge.jar",
+      "url": "https://cdn.modrinth.com/data/fFEIiSDQ/versions/S0TIJ1hU/supplementaries-1.20-3.1.43-forge.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
+    },
+    {
+      "name": "L_Ender 's Cataclysm",
+      "filename": "L_Enders_Cataclysm-3.27.jar",
+      "url": "https://cdn.modrinth.com/data/46KJle7n/versions/TFKWu05d/L_Enders_Cataclysm-3.27.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
+    },
+    {
+      "name": "Immersive Engineering",
+      "filename": "ImmersiveEngineering-1.20.1-10.2.0-183.jar",
+      "url": "https://cdn.modrinth.com/data/tIm2nV03/versions/WUzj4tgJ/ImmersiveEngineering-1.20.1-10.2.0-183.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
+    },
+    {
+      "name": "WATERMeDIA: Multimedia API",
+      "filename": "watermedia-2.1.37.jar",
+      "url": "https://cdn.modrinth.com/data/G922NeHS/versions/fB0LmHnR/watermedia-2.1.37.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
+    },
+    {
+      "name": "Game Discs",
+      "filename": "gamediscs-0.3.2-forge.jar",
+      "url": "https://cdn.modrinth.com/data/AgqoIu86/versions/gvMBSvC4/gamediscs-0.3.2-forge.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
+    },
+    {
+      "name": "YUNG's Better Dungeons",
+      "filename": "YungsBetterDungeons-1.20-Forge-4.0.4.jar",
+      "url": "https://cdn.modrinth.com/data/o1C1Dkj5/versions/kPiQ6v4q/YungsBetterDungeons-1.20-Forge-4.0.4.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
+    },
+    {
+      "name": "Discord & Chat Images",
+      "filename": "discord_chat_mod-forge-1.20.1-2.7.0.jar",
+      "url": "https://cdn.modrinth.com/data/yIWYj2mo/versions/8xOSfyfX/discord_chat_mod-forge-1.20.1-2.7.0.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
+    },
+    {
+      "name": "Farmer's Delight",
+      "filename": "FarmersDelight-1.20.1-1.3.2.jar",
+      "url": "https://cdn.modrinth.com/data/R2OftAxM/versions/CsjS7EkP/FarmersDelight-1.20.1-1.3.2.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
+    },
+    {
+      "name": "Curios API",
+      "filename": "curios-forge-5.14.1+1.20.1.jar",
+      "url": "https://cdn.modrinth.com/data/vvuO3ImH/versions/IPQlZkz1/curios-forge-5.14.1%2B1.20.1.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
+    },
+    {
+      "name": "Deeper and Darker",
+      "filename": "deeperdarker-forge-1.20.1-1.3.3.jar",
+      "url": "https://cdn.modrinth.com/data/fnAffV0n/versions/e2oirgc2/deeperdarker-forge-1.20.1-1.3.3.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
+    },
+    {
+      "name": "Goblin Traders",
+      "filename": "goblintraders-forge-1.20.1-1.11.5.jar",
+      "url": "https://raw.github.com/Christian270304/reino-inutil-mods/main/mods/goblintraders-forge-1.20.1-1.11.5.jar"
+    },
+    {
+      "name": "Common Network",
+      "filename": "common-networking-forge-1.0.5-1.20.1.jar",
+      "url": "https://cdn.modrinth.com/data/HIuqnQpi/versions/FMfO8Pme/common-networking-forge-1.0.5-1.20.1.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
+    },
+    {
+      "name": "Gravestone x Curios API Compat",
+      "filename": "gravestonecurioscompat-1.20.x-Forge-3.0.0.jar",
+      "url": "https://raw.github.com/Christian270304/reino-inutil-mods/main/mods/gravestonecurioscompat-1.20.x-Forge-3.0.0.jar"
+    },
+    {
+      "name": "Structure Gel API",
+      "filename": "structure_gel-1.20.1-2.16.2.jar",
+      "url": "https://cdn.modrinth.com/data/T8TGycIQ/versions/xavY0MZc/structure_gel-1.20.1-2.16.2.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
+    },
+    {
+      "name": "Epic Knights: Shields, Armor and Weapons",
+      "filename": "epic-knights-1.20.1-forge-10.11.jar",
+      "url": "https://cdn.modrinth.com/data/L6jvzao4/versions/2kK9qUpx/epic-knights-1.20.1-forge-10.11.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
+    },
+    {
+      "name": "Just Enough Items (JEI)",
+      "filename": "jei-1.20.1-forge-15.20.0.130.jar",
+      "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/RTFeXsvE/jei-1.20.1-forge-15.20.0.130.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
+    },
+    {
+      "name": "Architectury API",
+      "filename": "architectury-9.2.14-forge.jar",
+      "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/1MKTLiiG/architectury-9.2.14-forge.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
+    },
+    {
+      "name": "Ars Nouveau",
+      "filename": "ars_nouveau-1.20.1-4.12.7-all.jar",
+      "url": "https://cdn.modrinth.com/data/TKB6INcv/versions/Hw2aD01e/ars_nouveau-1.20.1-4.12.7-all.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
+    },
+    {
+      "name": "Ars Creo",
+      "filename": "ars_creo-1.20.1-4.3.0.jar",
+      "url": "https://cdn.modrinth.com/data/fZ324GMc/versions/bLLhDnY2/ars_creo-1.20.1-4.3.0.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
+    },
+    {
+      "name": "WATERViSION: Videoplayer",
+      "filename": "watervision-FG-mc1.20.1-v0.1.0-alpha.jar",
+      "url": "https://cdn.modrinth.com/data/dGGbEGoV/versions/yE93Q2Ed/watervision-FG-mc1.20.1-v0.1.0-alpha.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
+    },
+    {
+      "name": "Waystones",
+      "filename": "waystones-forge-1.20.1-14.1.20.jar",
+      "url": "https://cdn.modrinth.com/data/LOpKHB2A/versions/sKoHLGbK/waystones-forge-1.20.1-14.1.20.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
+    },
+    {
+      "name": "GraveStone Mod",
+      "filename": "gravestone-forge-1.20.1-1.0.35.jar",
+      "url": "https://cdn.modrinth.com/data/RYtXKJPr/versions/q9kZE5Xo/gravestone-forge-1.20.1-1.0.35.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
+    },
+    {
+      "name": "Sound Physics Remastered",
+      "filename": "sound-physics-remastered-forge-1.20.1-1.5.1.jar",
+      "url": "https://raw.github.com/Christian270304/reino-inutil-mods/main/mods/sound-physics-remastered-forge-1.20.1-1.5.1.jar"
+    },
+    {
+      "name": "Naturalist",
+      "filename": "naturalist-5.0pre2+forge-1.20.1.jar",
+      "url": "https://cdn.modrinth.com/data/F8BQNPWX/versions/LbtmTtvK/naturalist-5.0pre2%2Bforge-1.20.1.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
+    },
+    {
+      "name": "Emotecraft",
+      "filename": "emotecraft-for-MC1.20.1-2.2.7-b.build.50-forge.jar",
+      "url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/2f5mEUPY/emotecraft-for-MC1.20.1-2.2.7-b.build.50-forge.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
+    },
+    {
+      "name": "Xaero's Minimap",
+      "filename": "xaerominimap-forge-1.20.1-25.3.13.jar",
+      "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/FiaNp94m/xaerominimap-forge-1.20.1-25.3.13.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
+    },
+    {
+      "name": "GeckoLib",
+      "filename": "geckolib-forge-1.20.1-4.8.3.jar",
+      "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/HVdLnQMI/geckolib-forge-1.20.1-4.8.3.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
+    },
+    {
+      "name": "Create",
+      "filename": "create-1.20.1-6.0.8.jar",
+      "url": "https://cdn.modrinth.com/data/LNytGWDc/versions/8amzvn9x/create-1.20.1-6.0.8.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
+    },
+    {
+      "name": "Shield Expansion",
+      "filename": "shieldexp-forge-1.20.1-1.3.7.jar",
+      "url": "https://cdn.modrinth.com/data/sjxWxSao/versions/oDx7Tmoh/shieldexp-forge-1.20.1-1.3.7.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
+    },
+    {
+      "name": "Tom's Simple Storage Mod",
+      "filename": "toms_storage-1.20-1.7.1.jar",
+      "url": "https://cdn.modrinth.com/data/XZNI4Cpy/versions/XELeoPjZ/toms_storage-1.20-1.7.1.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
+    },
+    {
+      "name": "Brewin' And Chewin'",
+      "filename": "BrewinAndChewin-1.20.1-3.2.1.jar",
+      "url": "https://cdn.modrinth.com/data/hIu9KJTT/versions/9myDFPCD/BrewinAndChewin-1.20.1-3.2.1.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
     },
     {
       "name": "Konkrete",
@@ -14,26 +549,274 @@
       "url": "https://cdn.modrinth.com/data/J81TRJWm/versions/skYziQQL/konkrete_forge_1.8.0_MC_1.20-1.20.1.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
     },
     {
-      "name": "Melody",
-      "filename": "melody_forge_1.0.3_MC_1.20.1-1.20.4.jar",
-      "url": "https://cdn.modrinth.com/data/CVT4pFB2/versions/lJlW5r8R/melody_forge_1.0.3_MC_1.20.1-1.20.4.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
-    }
-    ,
-    {
-      "name": "Kubejs",
-      "filename": "kubejs-forge-2001.6.5-build.26.jar",
-      "url": "https://cdn.modrinth.com/data/umyGl7zF/versions/hVR2xUSr/kubejs-forge-2001.6.5-build.26.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
-    }
-    ,
-    {
-      "name": "Rhino",
-      "filename": "rhino-forge-2001.2.3-build.10.jar",
-      "url": "https://cdn.modrinth.com/data/sk9knFPE/versions/uNALdylI/rhino-forge-2001.2.3-build.10.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
+      "name": "CreativeCore",
+      "filename": "CreativeCore_FORGE_v2.12.38_mc1.20.1.jar",
+      "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/J9tluyYl/CreativeCore_FORGE_v2.12.38_mc1.20.1.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
     },
     {
-      "name": "Architectury",
-      "filename": "architectury-9.2.14-forge.jar",
-      "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/1MKTLiiG/architectury-9.2.14-forge.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
+      "name": "Controlling",
+      "filename": "Controlling-forge-1.20.1-12.0.2.jar",
+      "url": "https://cdn.modrinth.com/data/xv94TkTM/versions/LH6Bi6Am/Controlling-forge-1.20.1-12.0.2.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
+    },
+    {
+      "name": "Better Combat",
+      "filename": "bettercombat-forge-1.9.0+1.20.1.jar",
+      "url": "https://cdn.modrinth.com/data/5sy6g3kz/versions/rnhiaw3t/bettercombat-forge-1.9.0%2B1.20.1.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
+    },
+    {
+      "name": "Cooking for Blockheads",
+      "filename": "CookingForBlockheads-1.20.1-16.0.15.jar",
+      "url": "https://cdn.modrinth.com/data/vJnhuDde/versions/W87tG8sG/cookingforblockheads-forge-1.20.1-16.0.15.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
+    },
+    {
+      "name": "Useful Slime",
+      "filename": "UsefulSlime-forge-1.20.1-1.8.1.jar",
+      "url": "https://cdn.modrinth.com/data/CzM6C1W0/versions/lfj2AZFK/UsefulSlime-forge-1.20.1-1.8.1.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
+    },
+    {
+      "name": "ImmediatelyFast",
+      "filename": "ImmediatelyFast-Forge-1.5.4+1.20.4.jar",
+      "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/OomXW3xp/ImmediatelyFast-Forge-1.5.4%2B1.20.4.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
+    },
+    {
+      "name": "FallingTree",
+      "filename": "FallingTree-1.20.1-4.3.4.jar",
+      "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/NrtzFkZE/FallingTree-1.20.1-4.3.4.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
+    },
+    {
+      "name": "Citadel",
+      "filename": "citadel-2.6.3-1.20.1.jar",
+      "url": "https://cdn.modrinth.com/data/jJfV67b1/versions/lTAAe4sZ/citadel-2.6.3-1.20.1.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
+    },
+    {
+      "name": "MCPitanLib",
+      "filename": "mcpitanlib-3.7.1-1.20.1-forge.jar",
+      "url": "https://cdn.modrinth.com/data/uNRoUnGT/versions/luv6owZ4/mcpitanlib-3.7.1-1.20.1-forge.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
+    },
+    {
+      "name": "Resourceful Config",
+      "filename": "resourcefulconfig-forge-1.20.1-2.1.3.jar",
+      "url": "https://cdn.modrinth.com/data/M1953qlQ/versions/DERs8u7v/resourcefulconfig-forge-1.20.1-2.1.3.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
+    },
+    {
+      "name": "YUNG's Better Ocean Monuments",
+      "filename": "YungsBetterOceanMonuments-1.20-Forge-3.0.4.jar",
+      "url": "https://cdn.modrinth.com/data/3dT9sgt4/versions/SN4iZ7wf/YungsBetterOceanMonuments-1.20-Forge-3.0.4.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
+    },
+    {
+      "name": "Jade",
+      "filename": "Jade-1.20.1-Forge-11.13.2.jar",
+      "url": "https://cdn.modrinth.com/data/nvQzSEkH/versions/LecuGude/Jade-1.20.1-Forge-11.13.2.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
+    },
+    {
+      "name": "Framework",
+      "filename": "framework-forge-1.20.1-0.8.0.jar",
+      "url": "https://raw.github.com/Christian270304/reino-inutil-mods/main/mods/framework-forge-1.20.1-0.8.0.jar"
+    },
+    {
+      "name": "Creeper Overhaul",
+      "filename": "creeperoverhaul-3.0.2-forge.jar",
+      "url": "https://cdn.modrinth.com/data/MI1LWe93/versions/Ap1DSAzz/creeperoverhaul-3.0.2-forge.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
+    },
+    {
+      "name": "Athena",
+      "filename": "athena-forge-1.20.1-3.1.2.jar",
+      "url": "https://cdn.modrinth.com/data/b1ZV3DIJ/versions/DULOQFj7/athena-forge-1.20.1-3.1.2.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
+    },
+    {
+      "name": "Handcrafted",
+      "filename": "handcrafted-forge-1.20.1-3.0.6.jar",
+      "url": "https://cdn.modrinth.com/data/pJmCFF0p/versions/N7wZwOFy/handcrafted-forge-1.20.1-3.0.6.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
+    },
+    {
+      "name": "Mowzie's Mobs",
+      "filename": "mowziesmobs-1.8.2.jar",
+      "url": "https://cdn.modrinth.com/data/BFbX9xcm/versions/acYEfsJa/mowziesmobs-1.8.2.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
+    },
+    {
+      "name": "Weapon Master",
+      "filename": "weaponmaster-1.4.3-1.20.1.jar",
+      "url": "https://cdn.modrinth.com/data/44bncbZS/versions/yWyGyqxz/weaponmaster-1.4.3-1.20.1.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
+    },
+    {
+      "name": "Game Stages",
+      "filename": "GameStages-Forge-1.20.1-15.0.2.jar",
+      "url": "https://cdn.modrinth.com/data/iAlZk5aS/versions/El97XbC9/GameStages-Forge-1.20.1-15.0.2.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
+    },
+    {
+      "name": "FTB Teams",
+      "filename": "ftb-teams-forge-2001.3.2.jar",
+      "url": "https://raw.github.com/Christian270304/reino-inutil-mods/main/mods/ftb-teams-forge-2001.3.2.jar"
+    },
+    {
+      "name": "Simple Custom Early Loading",
+      "filename": "SimpleCustomEarlyLoading-2.2-forge.jar",
+      "url": "https://cdn.modrinth.com/data/Bi8o4aLw/versions/Un816pXM/SimpleCustomEarlyLoading-2.2-forge.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
+    },
+    {
+      "name": "Dynamic FPS",
+      "filename": "dynamic-fps-3.11.4+minecraft-1.20.0-forge.jar",
+      "url": "https://cdn.modrinth.com/data/LQ3K71Q1/versions/EjdIWWqG/dynamic-fps-3.11.4%2Bminecraft-1.20.0-forge.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
+    },
+    {
+      "name": "Cloth Config API",
+      "filename": "cloth-config-11.1.136-forge.jar",
+      "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/t8TXrZvZ/cloth-config-11.1.136-forge.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
+    },
+    {
+      "name": "CERBON's API",
+      "filename": "CerbonsAPI-Forge-1.20.1-1.1.0.jar",
+      "url": "https://cdn.modrinth.com/data/GkIc6rRo/versions/XWZQbKsr/CerbonsAPI-Forge-1.20.1-1.1.0.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
+    },
+    {
+      "name": "Packet Fixer",
+      "filename": "packetfixer-3.3.2-1.18-1.20.4-merged.jar",
+      "url": "https://cdn.modrinth.com/data/c7m1mi73/versions/9F4NGhGR/packetfixer-3.3.2-1.18-1.20.4-merged.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
+    },
+    {
+      "name": "Artifacts",
+      "filename": "artifacts-forge-9.5.19.jar",
+      "url": "https://cdn.modrinth.com/data/P0Mu4wcQ/versions/lrLPBSzq/artifacts-forge-9.5.19.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
+    },
+    {
+      "name": "TerraBlender",
+      "filename": "TerraBlender-forge-1.20.1-3.0.1.10.jar",
+      "url": "https://cdn.modrinth.com/data/kkmrDlKT/versions/zGconCHG/TerraBlender-forge-1.20.1-3.0.1.10.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
+    },
+    {
+      "name": "Spartan Weaponry",
+      "filename": "SpartanWeaponry-1.20.1-forge-3.2.1-all.jar",
+      "url": "https://cdn.modrinth.com/data/icU5P2Mk/versions/4U6gwadt/SpartanWeaponry-1.20.1-forge-3.2.1-all.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
+    },
+    {
+      "name": "Decorative Blocks",
+      "filename": "decorative_blocks-forge-1.20.1-4.1.3.jar",
+      "url": "https://cdn.modrinth.com/data/t6BIRVZn/versions/nGmyeiug/decorative_blocks-forge-1.20.1-4.1.3.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
+    },
+    {
+      "name": "FTB Chunks",
+      "filename": "ftb-chunks-forge-2001.3.7.jar",
+      "url": "https://raw.github.com/Christian270304/reino-inutil-mods/main/mods/ftb-chunks-forge-2001.3.7.jar"
+    },
+    {
+      "name": "Regions Unexplored",
+      "filename": "RegionsUnexploredForge-0.5.6+1.20.1.jar",
+      "url": "https://cdn.modrinth.com/data/Tkikq67H/versions/XTrgsfIB/RegionsUnexploredForge-0.5.6%2B1.20.1.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
+    },
+    {
+      "name": "AppleSkin",
+      "filename": "appleskin-forge-mc1.20.1-2.5.1.jar",
+      "url": "https://cdn.modrinth.com/data/EsAfCjCV/versions/XdXDExVF/appleskin-forge-mc1.20.1-2.5.1.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
+    },
+    {
+      "name": "Balm",
+      "filename": "balm-forge-1.20.1-7.3.38-all.jar",
+      "url": "https://cdn.modrinth.com/data/MBAkmtvl/versions/8rz04Kha/balm-forge-1.20.1-7.3.38-all.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
+    },
+    {
+      "name": "Macaw's Furniture",
+      "filename": "mcw-furniture-3.4.1-mc1.20.1forge.jar",
+      "url": "https://cdn.modrinth.com/data/dtWC90iB/versions/mvGf4LNK/mcw-furniture-3.4.1-mc1.20.1forge.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
+    },
+    {
+      "name": "BadOptimizations",
+      "filename": "BadOptimizations-2.4.1-1.20.1.jar",
+      "url": "https://cdn.modrinth.com/data/g96Z4WVZ/versions/DIugITgU/BadOptimizations-2.4.1-1.20.1.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
+    },
+    {
+      "name": "Lithostitched",
+      "filename": "lithostitched-forge-1.20.1-1.4.11.jar",
+      "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/srPoHKt8/lithostitched-forge-1.20.1-1.4.11.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
+    },
+    {
+      "name": "SuperMartijn642's Config Lib",
+      "filename": "supermartijn642configlib-1.1.8-forge-mc1.20.jar",
+      "url": "https://cdn.modrinth.com/data/LN9BxssP/versions/ZKor79dR/supermartijn642configlib-1.1.8-forge-mc1.20.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
+    },
+    {
+      "name": "Bosses of Mass Destruction",
+      "filename": "BOMD-Forge-1.20.1-1.1.2.jar",
+      "url": "https://cdn.modrinth.com/data/hFUzfDsn/versions/2Kw4xPhp/BOMD-Forge-1.20.1-1.1.2.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
+    },
+    {
+      "name": "Recipe Stages",
+      "filename": "RecipeStages-8.0.0.2.jar",
+      "url": "https://cdn.modrinth.com/data/qXkLFB0L/versions/iZsXzfY9/RecipeStages-8.0.0.2.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
+    },
+    {
+      "name": "Butchery",
+      "filename": "butchery-5.1-forge-1.20.1.jar",
+      "url": "https://cdn.modrinth.com/data/6YfOmC9t/versions/UYPJ2Bnu/butchery-5.1-forge-1.20.1.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
+    },
+    {
+      "name": "Just Parry",
+      "filename": "just_parry-2.5-forg-1.20.1.jar",
+      "url": "https://cdn.modrinth.com/data/QfyIvDga/versions/9bPpwDyT/just_parry-2.5-forg-1.20.1.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
+    },
+    {
+      "name": "Carry On",
+      "filename": "carryon-forge-1.20.1-2.1.2.7.jar",
+      "url": "https://cdn.modrinth.com/data/joEfVgkn/versions/edGQD16r/carryon-forge-1.20.1-2.1.2.7.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
+    },
+    {
+      "name": "Lionfish API",
+      "filename": "lionfishapi-2.8.jar",
+      "url": "https://cdn.modrinth.com/data/FoVacERa/versions/h1YW5QgP/lionfishapi-2.8.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
+    },
+    {
+      "name": "YUNG's Better Desert Temples",
+      "filename": "YungsBetterDesertTemples-1.20-Forge-3.0.3.jar",
+      "url": "https://cdn.modrinth.com/data/XNlO7sBv/versions/lRK2ZA9U/YungsBetterDesertTemples-1.20-Forge-3.0.3.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
+    },
+    {
+      "name": "The Graveyard",
+      "filename": "The_Graveyard_3.1_(FORGE)_for_1.20.1.jar",
+      "url": "https://cdn.modrinth.com/data/U1jdQuSf/versions/Q66WyQ3F/The_Graveyard_3.1_%28FORGE%29_for_1.20.1.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
+    },
+    {
+      "name": "FramedBlocks",
+      "filename": "FramedBlocks-9.4.3.jar",
+      "url": "https://cdn.modrinth.com/data/wbgfS34j/versions/lSiHA1qU/FramedBlocks-9.4.3.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
+    },
+    {
+      "name": "YUNG's Better Mineshafts",
+      "filename": "YungsBetterMineshafts-1.20-Forge-4.0.4.jar",
+      "url": "https://cdn.modrinth.com/data/HjmxVlSr/versions/kVO57zxB/YungsBetterMineshafts-1.20-Forge-4.0.4.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
+    },
+    {
+      "name": "playerAnimator",
+      "filename": "player-animation-lib-forge-1.0.2-rc1+1.20.jar",
+      "url": "https://cdn.modrinth.com/data/gedNE4y2/versions/xe2EVE6q/player-animation-lib-forge-1.0.2-rc1%2B1.20.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
+    },
+    {
+      "name": "Moonlight Lib",
+      "filename": "moonlight-1.20-2.16.32-forge.jar",
+      "url": "https://cdn.modrinth.com/data/twkfQtEc/versions/WmUPC6GX/moonlight-1.20-2.16.32-forge.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
+    },
+    {
+      "name": "TrashSlot",
+      "filename": "trashslot-forge-1.20.1-15.1.5.jar",
+      "url": "https://cdn.modrinth.com/data/vRYk0bv7/versions/r0K8IYd7/trashslot-forge-1.20.1-15.1.5.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
+    },
+    {
+      "name": "Sophisticated Core",
+      "filename": "sophisticatedcore-1.20.1-1.3.38.1893.jar",
+      "url": "https://cdn.modrinth.com/data/nmoqTijg/versions/lKG0rCuj/sophisticatedcore-1.20.1-1.3.38.1893.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
+    },
+    {
+      "name": "Kotlin for Forge",
+      "filename": "kotlinforforge-4.12.0-all.jar",
+      "url": "https://cdn.modrinth.com/data/ordsPcFz/versions/Zsh14XeQ/kotlinforforge-4.12.0-all.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
+    },
+    {
+      "name": "Necronomicon API",
+      "filename": "Necronomicon-Forge-1.6.0+1.20.1.jar",
+      "url": "https://cdn.modrinth.com/data/P1Kv5EAO/versions/AomMq7HP/Necronomicon-Forge-1.6.0%2B1.20.1.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
+    },
+    {
+      "name": "Patchouli",
+      "filename": "Patchouli-1.20.1-85-FORGE.jar",
+      "url": "https://cdn.modrinth.com/data/nU0bVIaL/versions/94dtOLgZ/Patchouli-1.20.1-85-FORGE.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
     },
     {
       "name": "CasinoCraft",
@@ -41,24 +824,9 @@
       "url": "https://raw.github.com/Christian270304/reino-inutil-mods/main/mods/CasinoCraft_1.20.1_v25.jar"
     },
     {
-      "name": "CasinoChips",
-      "filename": "casinochips-1.0.0-forge-1.20.1.jar",
-      "url": "https://raw.github.com/Christian270304/reino-inutil-mods/main/mods/casinochips-1.0.0-forge-1.20.1.jar"
-    },
-    {
-      "name": "JEI",
-      "filename": "jei-1.20.1-forge-15.20.0.130.jar",
-      "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/RTFeXsvE/jei-1.20.1-forge-15.20.0.130.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
-    },
-    {
-      "name": "Good O'l currency Reforged",
-      "filename": "Good O'l Currency Reforged 1.20.1.jar",
-      "url": "https://raw.github.com/Christian270304/reino-inutil-mods/main/mods/Good O'l Currency Reforged 1.20.1.jar"
-    },
-    {
-      "name": "Lucky77",
-      "filename": "Lucky77_1.20.1_v04.jar",
-      "url": "https://raw.github.com/Christian270304/reino-inutil-mods/main/mods/Lucky77_1.20.1_v04.jar"
+      "name": "ShopMod",
+      "filename": "shopmod-1.0.0.jar",
+      "url": "https://raw.github.com/Christian270304/reino-inutil-mods/main/mods/shopmod-1.0.0.jar"
     }
   ]
 }
