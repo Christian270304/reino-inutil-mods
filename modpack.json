@@ -86,7 +86,7 @@
     {
       "name": "GPUTape",
       "filename": "GPUTape-1.18x-1.21x-1.0.5.1-forge.jar",
-      "url": "https://raw.github.com/Christian270304/reino-inutil-mods/main/mods/GPUTape-1.18x-1.21x-1.0.5.1-forge.jar"
+      "url": "https://raw.githubusercontent.com/Christian270304/reino-inutil-mods/main/mods/GPUTape-1.18x-1.21x-1.0.5.1-forge.jar"
     },
     {
       "name": "Macaw's Roofs",
@@ -111,7 +111,7 @@
     {
       "name": "Exotic Birds",
       "filename": "exoticbirds-1.20.1-1.0.0.jar",
-      "url": "https://raw.github.com/Christian270304/reino-inutil-mods/main/mods/exoticbirds-1.20.1-1.0.0.jar"
+      "url": "https://raw.githubusercontent.com/Christian270304/reino-inutil-mods/main/mods/exoticbirds-1.20.1-1.0.0.jar"
     },
     {
       "name": "Wakes Reforged",
@@ -186,7 +186,7 @@
     {
       "name": "fix GPU memory leak",
       "filename": "gpumemleakfix-1.20.1-1.8.jar",
-      "url": "https://raw.github.com/Christian270304/reino-inutil-mods/main/mods/gpumemleakfix-1.20.1-1.8.jar"
+      "url": "https://raw.githubusercontent.com/Christian270304/reino-inutil-mods/main/mods/gpumemleakfix-1.20.1-1.8.jar"
     },
     {
       "name": "Searchables",
@@ -196,7 +196,7 @@
     {
       "name": "Combat Dash",
       "filename": "combat_dash-1.7-forge-1.20.1.jar",
-      "url": "https://raw.github.com/Christian270304/reino-inutil-mods/main/mods/combat_dash-1.7-forge-1.20.1.jar"
+      "url": "https://raw.githubusercontent.com/Christian270304/reino-inutil-mods/main/mods/combat_dash-1.7-forge-1.20.1.jar"
     },
     {
       "name": "ModernFix",
@@ -216,7 +216,7 @@
     {
       "name": "Lucky77",
       "filename": "Lucky77_1.20.1_v04.jar",
-      "url": "https://raw.github.com/Christian270304/reino-inutil-mods/main/mods/Lucky77_1.20.1_v04.jar"
+      "url": "https://raw.githubusercontent.com/Christian270304/reino-inutil-mods/main/mods/Lucky77_1.20.1_v04.jar"
     },
     {
       "name": "GuideME",
@@ -256,7 +256,7 @@
     {
       "name": "FTB Library",
       "filename": "ftb-library-forge-2001.2.12.jar",
-      "url": "https://raw.github.com/Christian270304/reino-inutil-mods/main/mods/ftb-library-forge-2001.2.12.jar"
+      "url": "https://raw.githubusercontent.com/Christian270304/reino-inutil-mods/main/mods/ftb-library-forge-2001.2.12.jar"
     },
     {
       "name": "Create: Ultimate Factory",
@@ -326,7 +326,7 @@
     {
       "name": "Untamed Wilds",
       "filename": "untamedwilds-1.20.1-4.0.4.jar",
-      "url": "https://raw.github.com/Christian270304/reino-inutil-mods/main/mods/untamedwilds-1.20.1-4.0.4.jar"
+      "url": "https://raw.githubusercontent.com/Christian270304/reino-inutil-mods/main/mods/untamedwilds-1.20.1-4.0.4.jar"
     },
     {
       "name": "Lootr",
@@ -441,7 +441,7 @@
     {
       "name": "Gravestone x Curios API Compat",
       "filename": "gravestonecurioscompat-1.20.x-Forge-3.0.0.jar",
-      "url": "https://raw.github.com/Christian270304/reino-inutil-mods/main/mods/gravestonecurioscompat-1.20.x-Forge-3.0.0.jar"
+      "url": "https://raw.githubusercontent.com/Christian270304/reino-inutil-mods/main/mods/gravestonecurioscompat-1.20.x-Forge-3.0.0.jar"
     },
     {
       "name": "Structure Gel API",
@@ -491,7 +491,7 @@
     {
       "name": "Sound Physics Remastered",
       "filename": "sound-physics-remastered-forge-1.20.1-1.5.1.jar",
-      "url": "https://raw.github.com/Christian270304/reino-inutil-mods/main/mods/sound-physics-remastered-forge-1.20.1-1.5.1.jar"
+      "url": "https://raw.githubusercontent.com/Christian270304/reino-inutil-mods/main/mods/sound-physics-remastered-forge-1.20.1-1.5.1.jar"
     },
     {
       "name": "Naturalist",
@@ -631,7 +631,7 @@
     {
       "name": "FTB Teams",
       "filename": "ftb-teams-forge-2001.3.2.jar",
-      "url": "https://raw.github.com/Christian270304/reino-inutil-mods/main/mods/ftb-teams-forge-2001.3.2.jar"
+      "url": "https://raw.githubusercontent.com/Christian270304/reino-inutil-mods/main/mods/ftb-teams-forge-2001.3.2.jar"
     },
     {
       "name": "Simple Custom Early Loading",
@@ -681,7 +681,7 @@
     {
       "name": "FTB Chunks",
       "filename": "ftb-chunks-forge-2001.3.7.jar",
-      "url": "https://raw.github.com/Christian270304/reino-inutil-mods/main/mods/ftb-chunks-forge-2001.3.7.jar"
+      "url": "https://raw.githubusercontent.com/Christian270304/reino-inutil-mods/main/mods/ftb-chunks-forge-2001.3.7.jar"
     },
     {
       "name": "Regions Unexplored",
@@ -806,12 +806,12 @@
     {
       "name": "CasinoCraft",
       "filename": "CasinoCraft_1.20.1_v25.jar",
-      "url": "https://raw.github.com/Christian270304/reino-inutil-mods/main/mods/CasinoCraft_1.20.1_v25.jar"
+      "url": "https://raw.githubusercontent.com/Christian270304/reino-inutil-mods/main/mods/CasinoCraft_1.20.1_v25.jar"
     },
     {
       "name": "ShopMod",
       "filename": "shopmod-1.0.0.jar",
-      "url": "https://raw.github.com/Christian270304/reino-inutil-mods/main/mods/shopmod-1.0.0.jar"
+      "url": "https://raw.githubusercontent.com/Christian270304/reino-inutil-mods/main/mods/shopmod-1.0.0.jar"
     }
   ]
 }
