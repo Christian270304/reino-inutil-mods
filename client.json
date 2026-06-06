@@ -45,7 +45,7 @@
     },
     {
       "name": "FML config",
-      "dest": "fml.toml",
+      "dest": "config/fml.toml",
       "url": "https://raw.githubusercontent.com/Christian270304/reino-inutil-mods/main/client/fml.toml",
       "updatedAt": "2026-06-06 9:30"
     },
