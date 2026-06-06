@@ -1038,7 +1038,7 @@ vanilla_button {
   button_element_executable_block_identifier = 51da17b2-ef11-4d91-b5c9-8187693d5525-1780740277788
   [executable_block:51da17b2-ef11-4d91-b5c9-8187693d5525-1780740277788][type:generic] = [executables:]
   backgroundnormal = [source:local]/config/fancymenu/assets/unjugador_btn.png
-  backgroundhovered = [source:local]/config/fancymenu/assets/unjugadro_btn_hover.png
+  backgroundhovered = [source:local]/config/fancymenu/assets/unjugador_btn_hover.png
   underline_label_on_hover = false
   transparent_background = false
   restartbackgroundanimations = true
