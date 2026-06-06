@@ -69,14 +69,14 @@
     },
     {
       "name": "Assets  Un Jugador btn",
-      "dest": "config/fancymenu/assets/unjugar_btn.png",
-      "url": "https://raw.githubusercontent.com/Christian270304/reino-inutil-mods/main/client/config/fancymenu/assets/unjugar_btn.png",
+      "dest": "config/fancymenu/assets/unjugador_btn.png",
+      "url": "https://raw.githubusercontent.com/Christian270304/reino-inutil-mods/main/client/config/fancymenu/assets/unjugador_btn.png",
       "updatedAt": "2026-06-06 9:30"
     },
     {
       "name": "Assets Un Jugador btn hover",
-      "dest": "config/fancymenu/assets/unjugar_btn_hover.png",
-      "url": "https://raw.githubusercontent.com/Christian270304/reino-inutil-mods/main/client/config/fancymenu/assets/unjugar_btn_hover.png",
+      "dest": "config/fancymenu/assets/unjugador_btn_hover.png",
+      "url": "https://raw.githubusercontent.com/Christian270304/reino-inutil-mods/main/client/config/fancymenu/assets/unjugador_btn_hover.png",
       "updatedAt": "2026-06-06 9:30"
     },
     {
