@@ -630,8 +630,8 @@
     },
     {
       "name": "Simple Custom Early Loading",
-      "filename": "SimpleCustomEarlyLoading-2.2-forge.jar",
-      "url": "https://cdn.modrinth.com/data/Bi8o4aLw/versions/Un816pXM/SimpleCustomEarlyLoading-2.2-forge.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
+      "filename": "SimpleCustomEarlyLoading-2.0.1-forge.jar",
+      "url": "https://raw.githubusercontent.com/Christian270304/reino-inutil-mods/main/mods/SimpleCustomEarlyLoading-2.0.1-forge.jar"
     },
     {
       "name": "Dynamic FPS",
