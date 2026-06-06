@@ -44,6 +44,132 @@
       "updatedAt": "2026-06-06 9:30"
     },
     {
+      "name": "Assets Exit btn",
+      "dest": "config/fancymenu/assets/exit_btn.png",
+      "url": "https://raw.githubusercontent.com/Christian270304/reino-inutil-mods/main/client/config/fancymenu/assets/exit_btn.png",
+      "updatedAt": "2026-06-06 9:30"
+    },
+    {
+      "name": "Assets Exit btn hover",
+      "dest": "config/fancymenu/assets/exit_btn_hover.png",
+      "url": "https://raw.githubusercontent.com/Christian270304/reino-inutil-mods/main/client/config/fancymenu/assets/exit_btn_hover.png",
+      "updatedAt": "2026-06-06 9:30"
+    },
+    {
+      "name": "Assets Jugar btn",
+      "dest": "config/fancymenu/assets/jugar_btn.png",
+      "url": "https://raw.githubusercontent.com/Christian270304/reino-inutil-mods/main/client/config/fancymenu/assets/jugar_btn.png",
+      "updatedAt": "2026-06-06 9:30"
+    },
+    {
+      "name": "Assets Jugar btn hover",
+      "dest": "config/fancymenu/assets/jugar_btn_hover.png",
+      "url": "https://raw.githubusercontent.com/Christian270304/reino-inutil-mods/main/client/config/fancymenu/assets/jugar_btn_hover.png",
+      "updatedAt": "2026-06-06 9:30"
+    },
+    {
+      "name": "Assets  Un Jugador btn",
+      "dest": "config/fancymenu/assets/unjugar_btn.png",
+      "url": "https://raw.githubusercontent.com/Christian270304/reino-inutil-mods/main/client/config/fancymenu/assets/unjugar_btn.png",
+      "updatedAt": "2026-06-06 9:30"
+    },
+    {
+      "name": "Assets Un Jugador btn hover",
+      "dest": "config/fancymenu/assets/unjugar_btn_hover.png",
+      "url": "https://raw.githubusercontent.com/Christian270304/reino-inutil-mods/main/client/config/fancymenu/assets/unjugar_btn_hover.png",
+      "updatedAt": "2026-06-06 9:30"
+    },
+    {
+      "name": "Assets Mods btn",
+      "dest": "config/fancymenu/assets/mods_btn.png",
+      "url": "https://raw.githubusercontent.com/Christian270304/reino-inutil-mods/main/client/config/fancymenu/assets/mods_btn.png",
+      "updatedAt": "2026-06-06 9:30"
+    },
+    {
+      "name": "Assets Mods btn hover",
+      "dest": "config/fancymenu/assets/mods_btn_hover.png",
+      "url": "https://raw.githubusercontent.com/Christian270304/reino-inutil-mods/main/client/config/fancymenu/assets/mods_btn_hover.png",
+      "updatedAt": "2026-06-06 9:30"
+    },
+    {
+      "name": "Assets Opciones btn",
+      "dest": "config/fancymenu/assets/opciones_btn.png",
+      "url": "https://raw.githubusercontent.com/Christian270304/reino-inutil-mods/main/client/config/fancymenu/assets/opciones_btn.png",
+      "updatedAt": "2026-06-06 9:30"
+    },
+    {
+      "name": "Assets Opciones btn hover",
+      "dest": "config/fancymenu/assets/opciones_btn_hover.png",
+      "url": "https://raw.githubusercontent.com/Christian270304/reino-inutil-mods/main/client/config/fancymenu/assets/opciones_btn_hover.png",
+      "updatedAt": "2026-06-06 9:30"
+    },
+    {
+      "name": "Assets Fondo Failzone",
+      "dest": "config/fancymenu/assets/fondo_failzone.png",
+      "url": "https://raw.githubusercontent.com/Christian270304/reino-inutil-mods/main/client/config/fancymenu/assets/fondo_failzone.png",
+      "updatedAt": "2026-06-06 9:30"
+    },
+    {
+      "name": "Assets Fondo Failed",
+      "dest": "config/fancymenu/assets/fondo_failed_server.png",
+      "url": "https://raw.githubusercontent.com/Christian270304/reino-inutil-mods/main/client/config/fancymenu/assets/fondo_failed_server.png",
+      "updatedAt": "2026-06-06 9:30"
+    },
+    {
+      "name": "Assets Fondo Server",
+      "dest": "config/fancymenu/assets/fondo_server.png",
+      "url": "https://raw.githubusercontent.com/Christian270304/reino-inutil-mods/main/client/config/fancymenu/assets/fondo_server.png",
+      "updatedAt": "2026-06-06 9:30"
+    },
+    {
+      "name": "Assets Titulo Failzone",
+      "dest": "config/fancymenu/assets/titulo_failzone.png",
+      "url": "https://raw.githubusercontent.com/Christian270304/reino-inutil-mods/main/client/config/fancymenu/assets/titulo_failzone.png",
+      "updatedAt": "2026-06-06 9:30"
+    },
+    {
+      "name": "Customization FailZone",
+      "dest": "config/fancymenu/customization/failzone.txt",
+      "url": "https://raw.githubusercontent.com/Christian270304/reino-inutil-mods/main/client/config/fancymenu/customization/failzone.txt",
+      "updatedAt": "2026-06-06 9:30"
+    },
+    {
+      "name": "Customization Connected",
+      "dest": "config/fancymenu/customization/connect_screen.txt",
+      "url": "https://raw.githubusercontent.com/Christian270304/reino-inutil-mods/main/client/config/fancymenu/customization/connect_screen.txt",
+      "updatedAt": "2026-06-06 9:30"
+    },
+    {
+      "name": "Customization Disconnected",
+      "dest": "config/fancymenu/customization/disconnected_screen.txt",
+      "url": "https://raw.githubusercontent.com/Christian270304/reino-inutil-mods/main/client/config/fancymenu/customization/disconnected_screen.txt",
+      "updatedAt": "2026-06-06 9:30"
+    },
+    {
+      "name": "Widgets",
+      "dest": "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget",
+      "url": "https://raw.githubusercontent.com/Christian270304/reino-inutil-mods/main/client/config/fancymenu/layout_editor/widgets/element_layer_control.lewidget",
+      "updatedAt": "2026-06-06 9:30"
+    },
+    {
+      "name": "Custom GUI Screen",
+      "dest": "config/fancymenu/custom_gui_screens.txt",
+      "url": "https://raw.githubusercontent.com/Christian270304/reino-inutil-mods/main/client/config/fancymenu/custom_gui_screens.txt",
+      "updatedAt": "2026-06-06 9:30"
+    },
+    {
+      "name": "Customizable Menus",
+      "dest": "config/fancymenu/customizablemenus.txt",
+      "url": "https://raw.githubusercontent.com/Christian270304/reino-inutil-mods/main/client/config/fancymenu/customizablemenus.txt",
+      "updatedAt": "2026-06-06 9:30"
+    },
+    {
+      "name": "Opciones FancyMenu",
+      "dest": "config/fancymenu/options.txt",
+      "url": "https://raw.githubusercontent.com/Christian270304/reino-inutil-mods/main/client/config/fancymenu/options.txt",
+      "updatedAt": "2026-06-06 9:30"
+    },
+    {
       "name": "FML config",
       "dest": "config/fml.toml",
       "url": "https://raw.githubusercontent.com/Christian270304/reino-inutil-mods/main/client/fml.toml",
