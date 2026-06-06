@@ -1,0 +1,29 @@
+
+{
+  "elements": [
+    {
+      "image": "failzone_loader.png",
+      "position": {
+        "position_anchor": "TOP_LEFT",
+        "position_unit": "PIXELS",
+        "x": 0,
+        "y": 0,
+        "size_unit": "PERCENTAGE",
+        "width": 100,
+        "height": 100
+      }
+    }],
+  "progress_bar": {
+    "bar_count": 3,
+    "position": {
+      "position_anchor": "TOP_CENTER",
+      "position_unit": "PERCENTAGE",
+      "x": 50,
+      "y": 66
+    }
+  },
+  "performance_bar": true,
+  "fox": true,
+  "log_messages": true,
+  "forge_version": true
+}

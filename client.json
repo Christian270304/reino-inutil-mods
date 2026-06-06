@@ -32,6 +32,24 @@
       "updatedAt": "2026-06-06 9:30"
     },
     {
+      "name": "Json Simple Custom Early Loading",
+      "dest": "config/simple-custom-early-loading.json",
+      "url": "https://raw.githubusercontent.com/Christian270304/reino-inutil-mods/main/client/config/simple-custom-early-loading.json",
+      "updatedAt": "2026-06-06 9:30"
+    },
+    {
+      "name": "Background Simple Custom Early Loading",
+      "dest": "config/simple-custom-early-loading/failzone_loader.png",
+      "url": "https://raw.githubusercontent.com/Christian270304/reino-inutil-mods/main/client/config/simple-custom-early-loading/failzone_loader.png",
+      "updatedAt": "2026-06-06 9:30"
+    },
+    {
+      "name": "FML config",
+      "dest": "fml.toml",
+      "url": "https://raw.githubusercontent.com/Christian270304/reino-inutil-mods/main/client/fml.toml",
+      "updatedAt": "2026-06-06 9:30"
+    },
+    {
       "name": "Opciones",
       "dest": "options.txt",
       "url": "https://raw.githubusercontent.com/Christian270304/reino-inutil-mods/main/client/options.txt",
