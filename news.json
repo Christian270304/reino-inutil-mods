@@ -1,0 +1,31 @@
+{
+  "version": "1.0.6",
+  "lastUpdated": "2026-06-08",
+  "news": [
+    {
+      "id": "update-1-0-6",
+      "title": "Launcher v1.0.6 disponible",
+      "date": "2026-06-08",
+      "type": "launcher",
+      "tag": "Actualización",
+      "summary": "Nueva ventana de mods, buscador y mejoras visuales.",
+      "changes": [
+        "Añadida lista de mods desde JSON",
+        "Añadido buscador de mods",
+        "Corregido el problema donde el inicio no cargaba al abrir la app",
+        "Mejorada la configuración de RAM"
+      ]
+    },
+    {
+      "id": "update-1-0-5",
+      "title": "Launcher v1.0.5 disponible",
+      "date": "2026-05-30",
+      "type": "launcher",
+      "tag": "Actualización",
+      "summary": "Incremento de la ram",
+      "changes": [
+        "Incrementada la RAM a 8GB"
+      ]
+    }
+  ]
+}
