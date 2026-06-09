@@ -3,6 +3,17 @@
   "lastUpdated": "2026-06-08",
   "news": [
     {
+      "id": "update-1-0-7",
+      "title": "Nuevos mods",
+      "date": "2026-06-09",
+      "type": "launcher",
+      "tag": "Actualización",
+      "summary": "Nuevos mods del end",
+      "changes": [
+        "Añadidos nuevos mods del end"
+      ]
+    },
+    {
       "id": "update-1-0-6",
       "title": "Launcher v1.0.6 disponible",
       "date": "2026-06-08",

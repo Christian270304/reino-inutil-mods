@@ -799,6 +799,41 @@
       "url": "https://cdn.modrinth.com/data/nU0bVIaL/versions/94dtOLgZ/Patchouli-1.20.1-85-FORGE.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
     },
     {
+      "name": "SecurityCraft",
+      "filename": "[1.20.1] SecurityCraft v1.10.1.jar",
+      "url": "https://cdn.modrinth.com/data/v8jzRtAt/versions/UDbRAGQU/%5B1.20.1%5D%20SecurityCraft%20v1.10.1.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
+    },
+    {
+      "name": "Create Better FPS",
+      "filename": "createbetterfps-1.20.1-1.1.2.jar",
+      "url": "https://cdn.modrinth.com/data/lMYIHZNH/versions/75GMC9GD/createbetterfps-1.20.1-1.1.2.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
+    },
+    {
+      "name": "True ending",
+      "filename": "tru.e-ending-v1.1.0c.jar",
+      "url": "https://cdn.modrinth.com/data/MCnBYP0b/versions/TO1g4SDa/tru.e-ending-v1.1.0c.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
+    },
+    {
+      "name": "Bigger End Cities",
+      "filename": "biggerendcities-1.20.1-1.0.0.jar",
+      "url": "https://raw.githubusercontent.com/Christian270304/reino-inutil-mods/main/mods/biggerendcities-1.20.1-1.0.0.jar"
+    },
+    {
+      "name": "LootBeams",
+      "filename": "lootbeams-1.20.1-1.2.2.jar",
+      "url": "https://cdn.modrinth.com/data/QWTmZu53/versions/Tj2fhhuD/lootbeams-1.20.1-1.2.2.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
+    },
+    {
+      "name": "Yung's Better End Island",
+      "filename": "YungsBetterEndIsland-1.20-Forge-2.0.6.jar",
+      "url": "https://cdn.modrinth.com/data/2BwBOmBQ/versions/Izqhg3Va/YungsBetterEndIsland-1.20-Forge-2.0.6.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
+    },
+    {
+      "name": "End Remastered",
+      "filename": "endrem_forge-5.3.3-R-1.20.1.jar",
+      "url": "https://cdn.modrinth.com/data/ZJTGwAND/versions/SQS2aSUl/endrem_forge-5.3.3-R-1.20.1.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
+    },
+    {
       "name": "CasinoCraft",
       "filename": "CasinoCraft_1.20.1_v25.jar",
       "url": "https://raw.githubusercontent.com/Christian270304/reino-inutil-mods/main/mods/CasinoCraft_1.20.1_v25.jar"
