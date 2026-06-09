@@ -406,7 +406,7 @@ element {
 
 element {
   button_element_executable_block_identifier = ff00aa56-bc3c-4a9a-8b2e-a93715ba9dcb-1780751829642
-  [executable_action_instance:3dae7b6e-f22c-4769-b940-4f254ed64549-1780751840299][action_type:joinserver] = exampleserver.com:25565
+  [executable_action_instance:3dae7b6e-f22c-4769-b940-4f254ed64549-1780751840299][action_type:joinserver] = 108.181.123.178:25583
   [executable_block:ff00aa56-bc3c-4a9a-8b2e-a93715ba9dcb-1780751829642][type:generic] = [executables:3dae7b6e-f22c-4769-b940-4f254ed64549-1780751840299;]
   backgroundnormal = [source:local]/config/fancymenu/assets/jugar_btn.png
   backgroundhovered = [source:local]/config/fancymenu/assets/jugar_btn_hover.png
