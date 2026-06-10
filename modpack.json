@@ -834,6 +834,11 @@
       "url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/nAHGB5ls/Clumps-forge-1.20.1-12.0.0.4.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
     },
     {
+      "name": "Book of Dragons",
+      "filename": "bookofdragons-1.31-1.20.1.jar",
+      "url": "https://cdn.modrinth.com/data/fJee0CPJ/versions/FMHtYIBA/bookofdragons-1.31-1.20.1.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
+    },
+    {
       "name": "BetterFPS Dist",
       "filename": "betterfpsdist-1.20.1-6.0.jar",
       "url": "https://raw.githubusercontent.com/Christian270304/reino-inutil-mods/main/mods/betterfpsdist-1.20.1-6.0.jar"
