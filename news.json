@@ -3,8 +3,8 @@
   "lastUpdated": "2026-06-10",
   "news": [
     {
-      "id": "update-1-0-8",
-      "title": "Launcher v1.0.8 disponible",
+      "id": "update-1-0-7",
+      "title": "Launcher v1.0.7 disponible",
       "date": "2026-06-10",
       "type": "launcher",
       "tag": "Actualización",
@@ -22,21 +22,11 @@
         "Añadida opción para iniciar el launcher maximizado",
         "Añadida opción para cerrar el launcher al iniciar Minecraft",
         "Añadido cierre de sesión de Microsoft desde la configuración",
+        "Añadidos nuevos mods del end",
         "Mejorado el sistema de guardado de configuraciones",
         "Corregidos problemas de sincronización de los interruptores de configuración",
         "Mejorada la interfaz principal con una nueva ambientación de casino",
         "Optimizada la carga inicial del launcher"
-      ]
-    },
-    {
-      "id": "update-1-0-7",
-      "title": "Nuevos mods",
-      "date": "2026-06-09",
-      "type": "launcher",
-      "tag": "Actualización",
-      "summary": "Nuevos mods del end",
-      "changes": [
-        "Añadidos nuevos mods del end"
       ]
     },
     {
