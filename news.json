@@ -1,7 +1,33 @@
 {
-  "version": "1.0.6",
-  "lastUpdated": "2026-06-08",
+  "version": "1.0.7",
+  "lastUpdated": "2026-06-10",
   "news": [
+    {
+      "id": "update-1-0-8",
+      "title": "Launcher v1.0.8 disponible",
+      "date": "2026-06-10",
+      "type": "launcher",
+      "tag": "Actualización",
+      "summary": "Nuevo sistema de noticias, estado del servidor en tiempo real y configuración ampliada.",
+      "changes": [
+        "Añadida sección de noticias dinámica cargada desde JSON",
+        "Añadido ticker de noticias dinámico en la pantalla principal",
+        "Añadida sincronización automática de noticias entre launcher y GitHub",
+        "Añadido estado del servidor en tiempo real",
+        "Añadido contador de jugadores conectados",
+        "Añadido indicador de ping del servidor",
+        "Añadido indicador online/offline del servidor",
+        "Añadido control de volumen para la música del launcher",
+        "Añadida opción para activar o desactivar la música",
+        "Añadida opción para iniciar el launcher maximizado",
+        "Añadida opción para cerrar el launcher al iniciar Minecraft",
+        "Añadido cierre de sesión de Microsoft desde la configuración",
+        "Mejorado el sistema de guardado de configuraciones",
+        "Corregidos problemas de sincronización de los interruptores de configuración",
+        "Mejorada la interfaz principal con una nueva ambientación de casino",
+        "Optimizada la carga inicial del launcher"
+      ]
+    },
     {
       "id": "update-1-0-7",
       "title": "Nuevos mods",
