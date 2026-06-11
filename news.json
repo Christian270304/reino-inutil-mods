@@ -1,7 +1,39 @@
 {
-  "version": "1.0.7",
+  "version": "1.0.9",
   "lastUpdated": "2026-06-10",
   "news": [
+    {
+      "id": "update-1-0-9",
+      "title": "Launcher v1.0.9 disponible",
+      "date": "2026-06-11",
+      "type": "launcher",
+      "tag": "Corrección",
+      "summary": "Mejoras de estabilidad, gestión de ventanas y corrección de errores en la configuración.",
+      "changes": [
+        "Corregido un problema que impedía reabrir el launcher al cerrar Minecraft cuando estaba activada la opción de cerrar launcher al iniciar el juego",
+        "Corregido un problema donde el botón 'Entrar al Reino' no volvía a su estado normal tras cerrar Minecraft",
+        "Corregida la sincronización de las opciones de configuración al reiniciar el launcher",
+        "Corregido el guardado de la opción de actualizaciones automáticas",
+        "Corregido el guardado de la opción de música entre sesiones",
+        "Corregido el comportamiento de los interruptores al usar atajos multimedia del teclado",
+        "Mejorada la gestión de ventanas del launcher tras cerrar Minecraft",
+        "Mejorada la estabilidad general del sistema de lanzamiento",
+        "Optimizadas las comprobaciones de configuración al iniciar la aplicación"
+      ]
+    },
+    {
+      "id": "update-1-0-8",
+      "title": "Launcher v1.0.8 disponible",
+      "date": "2026-06-10",
+      "type": "launcher",
+      "tag": "Nuevos Mods",
+      "summary": "Nuevos mods agregados",
+      "changes": [
+        "Añadidos nuevos mods del end",
+        "Añadido mod de zoom",
+        "Y muchos mas mods nuevos"
+      ]
+    },
     {
       "id": "update-1-0-7",
       "title": "Launcher v1.0.7 disponible",
