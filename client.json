@@ -164,6 +164,12 @@
       "updatedAt": "2026-06-06 9:30"
     },
     {
+      "name": "Inventory HUD+ Config",
+      "dest": "config/inventoryhud-client.toml",
+      "url": "https://raw.githubusercontent.com/Christian270304/reino-inutil-mods/main/client/config/inventoryhud-client.toml",
+      "updatedAt": "2026-06-11 10:30"
+    },
+    {
       "name": "Opciones FancyMenu",
       "dest": "config/fancymenu/options.txt",
       "url": "https://raw.githubusercontent.com/Christian270304/reino-inutil-mods/main/client/config/fancymenu/options.txt",
