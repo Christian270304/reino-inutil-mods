@@ -325,8 +325,8 @@ key_key.bookofdragons.secondary_ability:key.keyboard.c
 key_key.bookofdragons.dragon_sprint:key.keyboard.left.control
 key_key.bookofdragons.primary_ability:key.mouse.left
 key_key.bookofdragons.free_camera:key.mouse.right
-key_key.inventoryhud.toggle:key.keyboard.i
-key_key.inventoryhud.openconfig:key.keyboard.o
+key_key.inventoryhud.toggle:key.keyboard.unknown
+key_key.inventoryhud.openconfig:key.keyboard.unknown
 key_key.inventoryhud.togglepot:key.keyboard.unknown
 key_key.inventoryhud.togglearm:key.keyboard.unknown
 key_key.inventoryhud.toggleall:key.keyboard.unknown
