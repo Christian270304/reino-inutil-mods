@@ -859,6 +859,11 @@
       "url": "https://cdn.modrinth.com/data/e0M1UDsY/versions/lH1VBD4w/collective-1.20.1-8.25.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
     },
     {
+      "name": "Comforts",
+      "filename": "comforts-forge-6.4.0+1.20.1.jar",
+      "url": "https://cdn.modrinth.com/data/SaCpeal4/versions/gBDsc134/comforts-forge-6.4.0%2B1.20.1.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
+    },
+    {
       "name": "BetterFPS Dist",
       "filename": "betterfpsdist-1.20.1-6.0.jar",
       "url": "https://raw.githubusercontent.com/Christian270304/reino-inutil-mods/main/mods/betterfpsdist-1.20.1-6.0.jar"
