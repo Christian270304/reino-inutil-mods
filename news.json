@@ -3,6 +3,17 @@
   "lastUpdated": "2026-06-10",
   "news": [
     {
+      "id": "update-1-0-10",
+      "title": "Artefactos disponibles en la tienda",
+      "date": "2026-06-15",
+      "type": "launcher",
+      "tag": "Artefactos",
+      "summary": "Todos los artefactos estan disponibles en la tienda",
+      "changes": [
+        "Artefactos disponibles en la tienda"
+      ]
+    },
+    {
       "id": "update-1-0-9",
       "title": "Launcher v1.0.9 disponible",
       "date": "2026-06-11",
