@@ -3,6 +3,18 @@
   "lastUpdated": "2026-06-10",
   "news": [
     {
+      "id": "update-1-0-12",
+      "title": "Posiblidad de volar",
+      "date": "2026-06-16",
+      "type": "launcher",
+      "tag": "Volar",
+      "summary": "Ahora puedes volar",
+      "changes": [
+        "Con el comando /fly buy <minutos> puedes comprar tiempo de vuelo",
+        "El precio de vuelo es de 50 monedas por minuto"
+      ]
+    },
+    {
       "id": "update-1-0-11",
       "title": "Nuevos mods agregados",
       "date": "2026-06-16",
