@@ -3,6 +3,22 @@
   "lastUpdated": "2026-06-10",
   "news": [
     {
+      "id": "update-1-0-11",
+      "title": "Nuevos mods agregados",
+      "date": "2026-06-16",
+      "type": "launcher",
+      "tag": "Mods",
+      "summary": "Nuevos mods agregados al modpack",
+      "changes": [
+        "Mod de portable mobs agregado",
+        "Mod de coroutil agregado",
+        "Mod de chat heads agregado",
+        "Mod de WATUT agregado",
+        "Mod de Player Revive agregado",
+        "Mod de Sophisticated Storage agregado"
+      ]
+    },
+    {
       "id": "update-1-0-10",
       "title": "Artefactos disponibles en la tienda",
       "date": "2026-06-15",
