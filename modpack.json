@@ -404,6 +404,11 @@
       "url": "https://cdn.modrinth.com/data/yIWYj2mo/versions/8xOSfyfX/discord_chat_mod-forge-1.20.1-2.7.0.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
     },
     {
+      "name": "Chat Heads",
+      "filename": "chat_heads-0.15.2-forge-1.20.jar",
+      "url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/raixMXoT/chat_heads-0.15.2-forge-1.20.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
+    },
+    {
       "name": "Farmer's Delight",
       "filename": "FarmersDelight-1.20.1-1.3.2.jar",
       "url": "https://cdn.modrinth.com/data/R2OftAxM/versions/CsjS7EkP/FarmersDelight-1.20.1-1.3.2.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
