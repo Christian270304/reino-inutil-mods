@@ -894,6 +894,11 @@
       "url": "https://cdn.modrinth.com/data/rLLJ1OZM/versions/6rPDKAT8/coroutil-forge-1.20.1-1.3.7.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
     },
     {
+      "name": "Carpet Mod",
+      "filename": "forge-carpet-1.20.1-1.0.8%2Bv251027.jar",
+      "url": "https://cdn.modrinth.com/data/XqqOkvZz/versions/XMYeNIOx/forge-carpet-1.20.1-1.0.8%2Bv251027.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
+    },
+    {
       "name": "FTB Ultimine",
       "filename": "ftb-ultimine-forge-2001.1.7.jar",
       "url": "https://raw.githubusercontent.com/Christian270304/reino-inutil-mods/main/mods/ftb-ultimine-forge-2001.1.7.jar"
