@@ -10,7 +10,7 @@
       "tag": "Volar",
       "summary": "Ahora puedes volar",
       "changes": [
-        "Con el comando /fly buy <minutos> puedes comprar tiempo de vuelo",
+        "Con el comando /buy fly <minutos> puedes comprar tiempo de vuelo",
         "El precio de vuelo es de 50 monedas por minuto"
       ]
     },
